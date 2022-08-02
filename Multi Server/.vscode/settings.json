@@ -1,0 +1,39 @@
+{
+    "cSpell.words": [
+        "Upgradeable",
+        "backports",
+        "codename",
+        "distro",
+        "eval",
+        "motd",
+        "oneshot",
+        "preseed",
+        "preseeded",
+        "puppetlabs",
+        "refreshonly",
+        "sbin",
+        "stdlib",
+        "systemd"
+    ],
+    "cSpell.enabledLanguageIds": [
+        "c",
+        "cpp",
+        "csharp",
+        "go",
+        "handlebars",
+        "javascript",
+        "javascriptreact",
+        "json",
+        "latex",
+        "markdown",
+        "php",
+        "plaintext",
+        "puppet",
+        "python",
+        "restructuredtext",
+        "text",
+        "typescript",
+        "typescriptreact",
+        "yml"
+    ]
+}

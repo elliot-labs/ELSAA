@@ -1,0 +1,1 @@
+Automatically configures the raspberry pi to be a MDT deployment server with WIM boot capibilities.

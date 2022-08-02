@@ -1,0 +1,48 @@
+// cSpell Settings
+{
+    // Version of the setting file.  Always 0.1
+    "version": "0.1",
+    // language - current active spelling language
+    "language": "en",
+    // words - list of words to be always considered correct
+    "words": [
+        "Collabora",
+        "FQDN",
+        "PKGs",
+        "WOPI",
+        "apcu",
+        "concat",
+        "ddclient",
+        "dynamicdns",
+        "eval",
+        "fastcgi",
+        "fcgi",
+        "ffmpeg",
+        "garethr",
+        "getip",
+        "imagick",
+        "libapache",
+        "loleaflet",
+        "lool",
+        "loolwsd",
+        "mbstring",
+        "mcrypt",
+        "motd",
+        "mysqld",
+        "nocanon",
+        "preseed",
+        "puppetlabs",
+        "recurse",
+        "refreshonly",
+        "stdlib",
+        "vhost",
+        "wstunnel"
+    ],
+    // flagWords - list of words to be always considered incorrect
+    // This is useful for offensive words and common spelling errors.
+    // For example "hte" should be "the"
+    "flagWords": [
+        "hte",
+        "teh"
+    ]
+}
